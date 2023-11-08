@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Monkey 1",
     "autor": "Bored Ape Yacht Club",
-    "photo": "images/monkey1.jpg",
+    "photo": "public/api/images/monkey1.jpg",
     "price": 100,
     "year" : 2023
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Monkey 2",
     "autor": "Bored Ape Yacht Club",
-    "photo": "images/monkey2.jpg",
+    "photo": "public/api/images/monkey2.jpg",
     "year" : 2022,
     "price": 150
   },
