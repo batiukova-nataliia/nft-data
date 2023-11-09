@@ -169,7 +169,7 @@
         "id": 3,
         "name": "Face",
         "author": "Solietrex",
-        "photo": "images/pink3.png",
+        "photo": "images/pink3.jpg",
         "price": 0.1,
         "year": 2022
       },
@@ -209,7 +209,7 @@
         "id": 3,
         "name": "Lionhearted Majesty",
         "author": "Mestro",
-        "photo": "images/lion3.png",
+        "photo": "images/lion3.jpg",
         "price": 0.41,
         "year": 2022
       },
