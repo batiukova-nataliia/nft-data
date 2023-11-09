@@ -81,7 +81,7 @@
         "id": 8,
         "name": "Abstraction",
         "author": "DevianArt",
-        "photo": "images/monkey1.jpg",
+        "photo": "images/shapes1.jpg",
         "price": 0.3,
         "year": 2023
       },
@@ -89,7 +89,7 @@
         "id": 9,
         "name": "Geometric flower",
         "author": "DevianArt",
-        "photo": "images/monkey1.jpg",
+        "photo": "images/shapes2.jpg",
         "price": 0.2,
         "year": 2023
       },
@@ -97,7 +97,7 @@
         "id": 10,
         "name": "Geometric mountain",
         "author": "DevianArt",
-        "photo": "images/monkey1.jpg",
+        "photo": "images/shapes3.png",
         "price": 0.4,
         "year": 2023
       },
@@ -105,7 +105,7 @@
         "id": 11,
         "name": "Illusion",
         "author": "DevianArt",
-        "photo": "images/monkey1.jpg",
+        "photo": "images/shapes4.jpg",
         "price": 0.1,
         "year": 2023
       }
