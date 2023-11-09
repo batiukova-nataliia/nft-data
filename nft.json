@@ -7,7 +7,7 @@
       {
         "id": 1,
         "name": "Monkey 1",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey1.jpg",
         "price": 100,
         "year": 2023
@@ -15,7 +15,7 @@
       {
         "id": 2,
         "name": "Monkey 2",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey2.jpg",
         "year": 2022,
         "price": 150
@@ -23,7 +23,7 @@
       {
         "id": 3,
         "name": "Monkey 3",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey3.jpg",
         "year": 2022,
         "price": 150
@@ -31,7 +31,7 @@
       {
         "id": 4,
         "name": "Monkey 4",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey4.jpg",
         "year": 2023,
         "price": 150
@@ -39,7 +39,7 @@
       {
         "id": 5,
         "name": "Monkey 5",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey5.jpg",
         "year": 2021,
         "price": 150
@@ -47,7 +47,7 @@
       {
         "id": 6,
         "name": "Monkey 6",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey6.jpg",
         "year": 2020,
         "price": 150
@@ -55,7 +55,7 @@
       {
         "id": 7,
         "name": "Monkey 7",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey7.jpg",
         "year": 2019,
         "price": 150
@@ -63,7 +63,7 @@
       {
         "id": 2,
         "name": "Monkey 2",
-        "autor": "Bored Ape Yacht Club",
+        "author": "Bored Ape Yacht Club",
         "photo": "images/monkey2.jpg",
         "year": 2020,
         "price": 150
@@ -78,7 +78,7 @@
       {
         "id": 8,
         "name": "Abstraction",
-        "autor": "DevianArt",
+        "author": "DevianArt",
         "photo": "images/monkey1.jpg",
         "price": 0.3,
         "year": 2023
@@ -86,7 +86,7 @@
       {
         "id": 9,
         "name": "Geometric flower",
-        "autor": "DevianArt",
+        "author": "DevianArt",
         "photo": "images/monkey1.jpg",
         "price": 0.2,
         "year": 2023
@@ -94,7 +94,7 @@
       {
         "id": 10,
         "name": "Geometric mountain",
-        "autor": "DevianArt",
+        "author": "DevianArt",
         "photo": "images/monkey1.jpg",
         "price": 0.4,
         "year": 2023
@@ -102,7 +102,7 @@
       {
         "id": 11,
         "name": "Illusion",
-        "autor": "DevianArt",
+        "author": "DevianArt",
         "photo": "images/monkey1.jpg",
         "price": 0.1,
         "year": 2023
