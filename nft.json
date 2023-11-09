@@ -1,79 +1,79 @@
 [
   {
     "id": 1,
-    "author": "Nataliia",
+    "author": "Bored Ape Yacht Club",
     "title": "Monkeys",
-    "description": "Some descr",
+    "description": " Immerse yourself in the world of curious, charming, and extraordinary primates with our Primate Portraits collection. Each artwork captures the individuality and wonders of life in these intelligent beings.",
     "collection": [
       {
         "id": 1,
-        "name": "Monkey 1",
+        "name": "Majestic Marmoset",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey1.jpg",
-        "price": 100,
+        "price": 0.2,
         "year": 2023
       },
       {
         "id": 2,
-        "name": "Monkey 2",
+        "name": "Playful Pongo",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey2.jpg",
         "year": 2022,
-        "price": 150
+        "price": 0.3
       },
       {
         "id": 3,
-        "name": "Monkey 3",
+        "name": "Inquisitive Indri",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey3.jpg",
         "year": 2022,
-        "price": 150
+        "price": 1
       },
       {
         "id": 4,
-        "name": "Monkey 4",
+        "name": "Lively Langur",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey4.jpg",
         "year": 2023,
-        "price": 150
+        "price": 0.4
       },
       {
         "id": 5,
-        "name": "Monkey 5",
+        "name": "Capricious Chimpanzee"",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey5.jpg",
         "year": 2021,
-        "price": 150
+        "price": 0.5
       },
       {
         "id": 6,
-        "name": "Monkey 6",
+        "name": "Thoughtful Tamarin",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey6.jpg",
         "year": 2020,
-        "price": 150
+        "price": 0.6
       },
       {
         "id": 7,
-        "name": "Monkey 7",
+        "name": "MWise Woolly Monkey",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey7.jpg",
         "year": 2019,
-        "price": 150
+        "price": 0.023
       },
       {
         "id": 2,
-        "name": "Monkey 2",
+        "name": "Spirited Siamang",
         "author": "Bored Ape Yacht Club",
         "photo": "images/monkey2.jpg",
         "year": 2020,
-        "price": 150
+        "price": 1.2
       }
     ]
   },
   {
     "id": 2,
-    "author": "Nataliia2",
+   "author": "DevianArt",
     "title": "Geometrics",
     "description": "Geometric Gems is a creative exploration of beauty and perfection through geometric shapes, colors, harmony and symmetry, space and dimensions. A unique selection created by David Mascha. Minted on the Ethereum blockchain.",
     "collection": [
@@ -138,6 +138,118 @@
         "name": "Abstraction",
         "author": "DevianArt",
         "photo": "images/shapes8.jpg",
+        "price": 0.25,
+        "year": 2021
+      }
+    ]
+  }, 
+  {
+    "id": 3,
+    "author": "Solietrex",
+    "title": "Pink Harmony ",
+    "description": "Dive into the enchanting realm of Pink Blossom NFT Collection, where every digital masterpiece blooms with the vibrant hues of pink. Immerse yourself in a gallery of exquisite NFT artworks, each telling a unique story through the lens of this mesmerizing color palette. Explore the delicate fusion of art and technology, where the beauty of pink takes on new dimensions in the digital space. Join us on a journey where creativity knows no bounds, and the Pink Blossom NFT Collection awaits to captivate your imagination. ",
+    "collection": [
+      {
+        "id": 1,
+        "name": "Flower",
+        "author": "Solietrex",
+        "photo": "images/pink1.jpg",
+        "price": 0.2,
+        "year": 2023
+      },
+      {
+        "id": 2,
+        "name": "Heart",
+        "author": "Solietrex",
+        "photo": "images/pink2.jpg",
+        "price": 0.2,
+        "year": 2023
+      },
+      {
+        "id": 3,
+        "name": "Face",
+        "author": "Solietrex",
+        "photo": "images/pink3.png",
+        "price": 0.1,
+        "year": 2022
+      },
+      {
+        "id": 4,
+        "name": "Thoughts",
+        "author": "Solietrex",
+        "photo": "images/pink4.jpg",
+        "price": 0.2,
+        "year": 2021
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "author": "Mestro",
+    "title": "Majestic Lions NFT Collection",
+    "description": "Immerse yourself in the regal world of the Majestic Lions NFT Collection, where the strength and grace of these magnificent creatures come to life in digital art. Roam through a virtual savannah of stunning NFT masterpieces, each capturing the untamed spirit and majestic presence of lions. Let the powerful symbolism of lions as kings of the wild inspire you, as this collection invites you to witness the beauty and ferocity of these iconic creatures through the lens of digital creativity. Join us on a captivating journey into the heart of the wild with the Majestic Lions NFT Collection.",
+    "collection": [
+      {
+        "id": 1,
+        "name": "Golden Pride",
+        "author": "Mestro",
+        "photo": "images/lion1.jpg",
+        "price": 0.35,
+        "year": 2021
+      },
+      {
+        "id": 2,
+        "name": "Savannah Sovereignty",
+        "author": "Mestro",
+        "photo": "images/lion2.jpg",
+        "price": 0.25,
+        "year": 2023
+      },
+      {
+        "id": 3,
+        "name": "Lionhearted Majesty",
+        "author": "Mestro",
+        "photo": "images/lion3.png",
+        "price": 0.41,
+        "year": 2022
+      },
+      {
+        "id": 4,
+        "name": "Regal Roar",
+        "author": "Mestro",
+        "photo": "images/lion4.jpg",
+        "price": 0.17,
+        "year": 2023
+      },
+      {
+        "id": 5,
+        "name": "Wild Monarch",
+        "author": "Mestro",
+        "photo": "images/lion5.jpg",
+        "price": 0.3,
+        "year": 2022
+      },
+      {
+        "id": 6,
+        "name": "Crimson Jungle Crown",
+        "author": "Mestro",
+        "photo": "images/lion6.jpg",
+        "price": 0.1,
+        "year": 2023
+      },
+      {
+        "id": 7,
+        "name": "Noble Mane Tapestry",
+        "author": "Mestro",
+        "photo": "images/lion7.jpg",
+        "price": 0.03,
+        "year": 2023
+      },
+      {
+        "id": 8,
+        "name": "Ethereal Lioness Symphony",
+        "author": "Mestro",
+        "photo": "images/lion8.jpg",
         "price": 0.25,
         "year": 2021
       }
