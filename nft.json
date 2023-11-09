@@ -3,6 +3,7 @@
     "id": 1,
     "author": "Nataliia",
     "title": "Monkeys",
+    "description": "Some descr",
     "collection": [
       {
         "id": 1,
@@ -74,6 +75,7 @@
     "id": 2,
     "author": "Nataliia2",
     "title": "Geometrics",
+    "description": "Geometric Gems is a creative exploration of beauty and perfection through geometric shapes, colors, harmony and symmetry, space and dimensions. A unique selection created by David Mascha. Minted on the Ethereum blockchain.",
     "collection": [
       {
         "id": 8,
