@@ -78,7 +78,7 @@
     "description": "Geometric Gems is a creative exploration of beauty and perfection through geometric shapes, colors, harmony and symmetry, space and dimensions. A unique selection created by David Mascha. Minted on the Ethereum blockchain.",
     "collection": [
       {
-        "id": 8,
+        "id": 1,
         "name": "Abstraction",
         "author": "DevianArt",
         "photo": "images/shapes1.jpg",
@@ -86,7 +86,7 @@
         "year": 2023
       },
       {
-        "id": 9,
+        "id": 2,
         "name": "Geometric flower",
         "author": "DevianArt",
         "photo": "images/shapes2.jpg",
@@ -94,7 +94,7 @@
         "year": 2023
       },
       {
-        "id": 10,
+        "id": 3,
         "name": "Geometric mountain",
         "author": "DevianArt",
         "photo": "images/shapes3.png",
@@ -102,13 +102,45 @@
         "year": 2023
       },
       {
-        "id": 11,
+        "id": 4,
         "name": "Illusion",
         "author": "DevianArt",
         "photo": "images/shapes4.jpg",
         "price": 0.1,
         "year": 2023
-      }
+      },
+      {
+        "id": 5,
+        "name": "Abstraction",
+        "author": "DevianArt",
+        "photo": "images/shapes5.jpg",
+        "price": 0.4,
+        "year": 2022
+      },
+      {
+        "id": 6,
+        "name": "Abstraction",
+        "author": "DevianArt",
+        "photo": "images/shapes6.jpg",
+        "price": 0.1,
+        "year": 2023
+      },
+      {
+        "id": 7,
+        "name": "Abstraction",
+        "author": "DevianArt",
+        "photo": "images/shapes7.jpg",
+        "price": 0.03,
+        "year": 2023
+      },
+      {
+        "id": 8,
+        "name": "Abstraction",
+        "author": "DevianArt",
+        "photo": "images/shapes8.jpg",
+        "price": 0.25,
+        "year": 2021
+      },
     ]
   }
 ]
