@@ -3,6 +3,7 @@
     "id": 1,
     "author": "Bored Ape Yacht Club",
     "title": "Monkeys",
+    "mainImg": "images/monkey1.jpg",
     "description": " Immerse yourself in the world of curious, charming, and extraordinary primates with our Primate Portraits collection. Each artwork captures the individuality and wonders of life in these intelligent beings.",
     "collection": [
       {
@@ -75,6 +76,7 @@
     "id": 2,
    "author": "DevianArt",
     "title": "Geometrics",
+    "mainImg": "images/shapes1.jpg",
     "description": "Geometric Gems is a creative exploration of beauty and perfection through geometric shapes, colors, harmony and symmetry, space and dimensions. A unique selection created by David Mascha. Minted on the Ethereum blockchain.",
     "collection": [
       {
@@ -147,6 +149,7 @@
     "id": 3,
     "author": "Solietrex",
     "title": "Pink Harmony ",
+    "mainImg": "images/pink1.jpg",
     "description": "Dive into the enchanting realm of Pink Blossom NFT Collection, where every digital masterpiece blooms with the vibrant hues of pink. Immerse yourself in a gallery of exquisite NFT artworks, each telling a unique story through the lens of this mesmerizing color palette. Explore the delicate fusion of art and technology, where the beauty of pink takes on new dimensions in the digital space. Join us on a journey where creativity knows no bounds, and the Pink Blossom NFT Collection awaits to captivate your imagination. ",
     "collection": [
       {
@@ -187,6 +190,7 @@
     "id": 4,
     "author": "Mestro",
     "title": "Majestic Lions NFT Collection",
+    "mainImg": "images/lion1.jpg",
     "description": "Immerse yourself in the regal world of the Majestic Lions NFT Collection, where the strength and grace of these magnificent creatures come to life in digital art. Roam through a virtual savannah of stunning NFT masterpieces, each capturing the untamed spirit and majestic presence of lions. Let the powerful symbolism of lions as kings of the wild inspire you, as this collection invites you to witness the beauty and ferocity of these iconic creatures through the lens of digital creativity. Join us on a captivating journey into the heart of the wild with the Majestic Lions NFT Collection.",
     "collection": [
       {
