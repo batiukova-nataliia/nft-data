@@ -258,5 +258,87 @@
         "year": 2021
       }
     ]
+  },
+  {
+    "id": 5,
+    "author": "Mestro",
+    "title": "Divine Marbles",
+    "mainImg": "images/person1.jpg",
+    "description": "Welcome the grandeur of Roman gods with our collection of NFT art inspired by statues of renowned deities from ancient Roman empire. From awe-inspiring figures to ancient sculptures, each artwork embodies the mythical power and unparalleled beauty of marble statues. Immerse yourself in a world of ancient legends and history with this collection that breathes life into divine images in digital form.",
+    "collection": [
+      {
+        "id": 1,
+        "name": "Zeus Ascension",
+        "author": "Mestro",
+        "photo": "images/person1.jpg",
+        "price": 0.3,
+        "year": 2021
+      },
+      {
+        "id": 2,
+        "name": "Apollo's Radiant Visage",
+        "author": "Mestro",
+        "photo": "images/person2.jpg",
+        "price": 0.2,
+        "year": 2022
+      },
+      {
+        "id": 3,
+        "name": "Venus: Eternal Beauty",
+        "author": "Mestro",
+        "photo": "images/person3.jpg",
+        "price": 0.4,
+        "year": 2023
+      },
+      {
+        "id": 4,
+        "name": "Athena's Wisdom Unveiled",
+        "author": "Mestro",
+        "photo": "images/person4.jpg",
+        "price": 0.1,
+        "year": 2021
+      }
+    ]
+  }, 
+  {
+    "id": 6,
+    "author": "Fabio",
+    "title": "Canvas Rendition",
+    "mainImg": "images/art1.jpg",
+    "description": "Discover a symphony of eclectic artistry in our collection. Embrace the avant-garde, traverse through cubist wonders, and delve into abstract realms that pay homage to Picasso's revolutionary style. Each piece echoes the eccentricity and vibrant spirit of the artistic maestro himself.",
+    "collection": [
+      {
+        "id": 1,
+        "name": "Cubist Visions",
+        "author": "Mestro",
+        "photo": "images/art1.jpg",
+        "price": 0.3,
+        "year": 2021
+      },
+      {
+        "id": 2,
+        "name": "Abstract Impressions Unleashed",
+        "author": "Mestro",
+        "photo": "images/art2.jpg",
+        "price": 0.2,
+        "year": 2022
+      },
+      {
+        "id": 3,
+        "name": "Avant-Garde Echoes",
+        "author": "Mestro",
+        "photo": "images/art3.jpg",
+        "price": 0.4,
+        "year": 2023
+      },
+      {
+        "id": 4,
+        "name": "Vivid Abstractions",
+        "author": "Mestro",
+        "photo": "images/art4.jpg",
+        "price": 0.1,
+        "year": 2021
+      }
+    ]
   }
 ]
