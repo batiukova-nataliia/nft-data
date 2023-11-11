@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  background-color: $c-primary;
+}
+
+.page {
+  font-family: Mont, sans-serif;
+  scroll-behavior: smooth;
+  transition: all 0.3s;
+
+  &__body {
+    margin: 0 auto;
+  }
+
+  &__section {
+    margin-bottom: 80px;
+    position: relative;
+
+    &-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1136px;
+      margin: 0 auto;
+
+      flex-direction: column;
+      padding-bottom: 20px;
+
+      @include onTablet {
+        flex-direction: row;
+        align-items: center;
+      }
+    }
+  }
+
+  &__description {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    letter-spacing: -0.01em;
+    color: $c-secondary;
+    display: block;
+    margin: 0 auto 40px;
+
+  }
+
+  &__title {
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 41px;
+    letter-spacing: -0.01em;
+    color: $c-white;
+    display: block;
+    margin: 0 auto 30px;
+    text-align: center;
+
+    @include onTablet {
+      margin-bottom: 35px;
+      text-align: start;
+    }
+
+    &--filter {
+      padding-bottom: 8px;
+      margin: 0;
+    }
+  }
+
+  &__link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: $c-gray-middle;
+    text-decoration: none;
+
+    &--filter {
+      display: block;
+      padding-bottom: 40px;
+    }
+  }
+}
+
+.block {
+  display: block;
+  margin: 0 auto;
+}
